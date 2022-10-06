@@ -1,2 +1,2 @@
-# CodingWithMyKids
-Teach my kids to code with Python and solve mathematic problems
+# Competative Programming for Kids
+Teach my kids to code with C++ and solve algorithm problems
